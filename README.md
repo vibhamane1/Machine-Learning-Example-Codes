@@ -1,5 +1,5 @@
 # Machine-Learning-Example-Codes
-Example codes in Python for a Machine Learning foundational couurse. Topics include -
+Example codes in Python for a Machine Learning foundational course. Topics include -
 1. Data Exploration
 2. Clustering
 3. Feature Reduction
